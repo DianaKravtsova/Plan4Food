@@ -9,7 +9,6 @@
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Dark.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
 
-                <ResourceDictionary Source="D:\2 курс\курсовой_ооп\Plan4Food\Plan4Food\Resources\Styles\Style.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
 
